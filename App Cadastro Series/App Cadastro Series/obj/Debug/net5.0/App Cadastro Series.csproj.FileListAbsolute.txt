@@ -1,0 +1,16 @@
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.csprojAssemblyReference.cache
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.AssemblyInfoInputs.cache
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.AssemblyInfo.cs
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.csproj.CoreCompileInputs.cache
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\App Cadastro Series.exe
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\App Cadastro Series.deps.json
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\App Cadastro Series.runtimeconfig.json
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\App Cadastro Series.runtimeconfig.dev.json
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\App Cadastro Series.dll
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\ref\App Cadastro Series.dll
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\bin\Debug\net5.0\App Cadastro Series.pdb
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.dll
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\ref\App Cadastro Series.dll
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.pdb
+C:\Users\Djona\OneDrive\Área de Trabalho\DigitalInovationOne\App-Cadastro-De-Series\App Cadastro Series\App Cadastro Series\obj\Debug\net5.0\App Cadastro Series.genruntimeconfig.cache
