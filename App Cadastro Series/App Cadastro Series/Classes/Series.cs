@@ -32,6 +32,10 @@ namespace App_Cadastro_Series.Classes
             return retorno;
         }
 
+        public int RetornaAno()
+        {
+            return Ano;
+        }
         public string RetornaTitulo()
         {
             return Titulo;
